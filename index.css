@@ -3,9 +3,9 @@ body
    background-color: #0000FF;
    background-image: url(images/89.jpg);
    background-attachment: fixed;
-   background-position: center center;
-   background-repeat: no-repeat;
-   background-size: contain;
+   background-position: left top;
+   background-repeat: repeat-y;
+   background-size: 100% 100%;
    color: #000000;
    font-family: Arial;
    font-weight: normal;
@@ -270,7 +270,7 @@ body
    background-image: url(images/89.jpg);
    background-attachment: fixed;
    background-position: left top;
-   background-repeat: repeat;
+   background-repeat: repeat-y;
    background-size: 100% 100%;
 }
 #home
