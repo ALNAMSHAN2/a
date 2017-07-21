@@ -27,7 +27,7 @@ body
 {
    background-color: transparent;
    background-image: none;
-   border: 0px #FF8C00 double;
+   border: 0px #FFFFFF double;
    padding: 0px 0px 0px 0px;
 }
 #Heading1
@@ -266,7 +266,7 @@ body
 {
 body
 {
-   background-color: #0000FF;
+   background-color: #FFFFFF;
    background-image: url(images/maxresdefault.jpg);
    background-attachment: fixed;
    background-position: center center;
@@ -299,9 +299,9 @@ body
 }
 #wb_Heading1
 {
-   left: -39px;
-   top: 189px;
-   width: 474px;
+   left: 16px;
+   top: 85px;
+   width: 276px;
    height: 82px;
    visibility: visible;
    display: inline;
@@ -313,13 +313,27 @@ body
    text-decoration: none;
    background-color: transparent;
    background-image: none;
+   border: 0px #FF8C00 double;
+}
+#wb_Heading1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FF8C00 double;
+}
+#Heading1
+{
+   color: #000000;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 48px;
 }
 #wb_days
 {
-   left: 11px;
-   top: 374px;
-   width: 84px;
-   height: 66px;
+   left: 7px;
+   top: 229px;
+   width: 67px;
+   height: 60px;
    visibility: visible;
    display: inline;
    font-size: 8px;
@@ -338,10 +352,10 @@ body
 }
 #wb_Text1
 {
-   left: 87px;
-   top: 577px;
-   width: 205px;
-   height: 19px;
+   left: 62px;
+   top: 432px;
+   width: 185px;
+   height: 16px;
    visibility: visible;
    display: inline;
    font-size: 8px;
@@ -359,10 +373,10 @@ body
 }
 #wb_hours
 {
-   left: 112px;
-   top: 375px;
-   width: 84px;
-   height: 70px;
+   left: 81px;
+   top: 229px;
+   width: 67px;
+   height: 60px;
    visibility: visible;
    display: inline;
    font-size: 8px;
@@ -381,10 +395,10 @@ body
 }
 #wb_minutes
 {
-   left: 219px;
-   top: 375px;
-   width: 82px;
-   height: 70px;
+   left: 156px;
+   top: 229px;
+   width: 67px;
+   height: 60px;
    visibility: visible;
    display: inline;
    font-size: 8px;
@@ -403,10 +417,10 @@ body
 }
 #wb_seconds
 {
-   left: 319px;
-   top: 374px;
-   width: 82px;
-   height: 71px;
+   left: 230px;
+   top: 229px;
+   width: 67px;
+   height: 60px;
    visibility: visible;
    display: inline;
    font-size: 8px;
@@ -442,10 +456,10 @@ body
 }
 #wb_Text2
 {
-   left: -39px;
-   top: 271px;
-   width: 457px;
-   height: 18px;
+   left: 16px;
+   top: 185px;
+   width: 276px;
+   height: 19px;
    visibility: visible;
    display: inline;
    font-size: 8px;
@@ -463,10 +477,10 @@ body
 }
 #wb_Text3
 {
-   left: -39px;
-   top: 509px;
-   width: 457px;
-   height: 40px;
+   left: 15px;
+   top: 378px;
+   width: 279px;
+   height: 41px;
    visibility: visible;
    display: inline;
    font-size: 8px;
